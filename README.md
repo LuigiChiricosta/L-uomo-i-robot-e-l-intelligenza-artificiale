@@ -1,5 +1,10 @@
 Bioinformatics Master Thesis Project
 
+Tables: https:tables.com
+Plots: https:plots.com
+Scripts: https:scripts.com
+Main: http://luigichiricosta.github.io/Bioinformatics.html
+
 --------------------------------------------
 
 Baylor College of Medicine ranked list (Allele frequencies threshold: 0.5%):
