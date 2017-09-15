@@ -1,12 +1,3 @@
-Bioinformatics Master Thesis Project
-
-Tables: https:tables.com
-Plots: https:plots.com
-Scripts: https://github.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/edit/master/scripts.md
-Main: http://htmlpreview.github.com/?https://github.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/blob/master/Bioinformatics.html
-
---------------------------------------------
-
 Baylor College of Medicine ranked list (Allele frequencies threshold: 0.5%):
 - Synonymous: https://raw.githubusercontent.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/master/BCoM_synonymous.txt
 - Nonsynonymous: https://raw.githubusercontent.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/master/BCoM_nonsynonymous.txt
