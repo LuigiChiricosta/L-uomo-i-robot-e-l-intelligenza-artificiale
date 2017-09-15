@@ -1,6 +1,6 @@
-Bioinformatics Master Thesis Project       |
-                                           |
--------------------------------------------|
+Bioinformatics Master Thesis Project
+
+--------------------------------------------
 
 Baylor College of Medicine ranked list (Allele frequencies threshold: 0.5%):
 - Synonymous: https://raw.githubusercontent.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/master/BCoM_synonymous.txt
