@@ -11,14 +11,14 @@ Broad institue ranked list (Allele frequencies threshold: 0.5%):
 --------------------------------------------
 
 Baylor College of Medicine ranked list after PhD-SNPg prediction (Allele frequencies threshold: 0.5%):
-- Synonymous: https://raw.githubusercontent.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/master/PhDSNPg_BCoM_synonymous.txt
-- Nonsynonymous: https://raw.githubusercontent.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/master/PhDSNPg_BCoM_nonsynonymous.txt
-- Functional: https://raw.githubusercontent.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/master/PhDSNPg_BCoM_functional.txt
+- Synonymous: https://raw.githubusercontent.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/master/PhDSNPg_BCoM_synonymous_AF0005.txt
+- Nonsynonymous: https://raw.githubusercontent.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/master/PhDSNPg_BCoM_nonsynonymous_AF0005.txt
+- Functional: https://raw.githubusercontent.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/master/PhDSNPg_BCoM_functional_AF0005.txt
 
 Broad institute ranked list after PhD-SNPg prediction (Allele frequencies threshold: 0.5%):
-- Synonymous: https://raw.githubusercontent.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/master/PhDSNPg_Broad_synonymous.txt
-- Nonsynonymous: https://raw.githubusercontent.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/master/PhDSNPg_Broad_nonsynonymous.txt
-- Functional: https://raw.githubusercontent.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/master/PhDSNPg_Broad_functional.txt
+- Synonymous: https://raw.githubusercontent.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/master/PhDSNPg_Broad_synonymous_AF0005.txt
+- Nonsynonymous: https://raw.githubusercontent.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/master/PhDSNPg_Broad_nonsynonymous_AF0005.txt
+- Functional: https://raw.githubusercontent.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/master/PhDSNPg_Broad_functional_AF0005.txt
 
 --------------------------------------------
 
