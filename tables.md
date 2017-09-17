@@ -10,6 +10,30 @@ Broad institue ranked list (Allele frequencies threshold: 0.5%):
 
 --------------------------------------------
 
+Baylor College of Medicine ranked list against 1000 Genomes Project (Allele frequencies threshold: 0.5%):
+- Synonymous: https://raw.githubusercontent.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/master/BCoM_1kg_synonymous_AF0005.txt
+- Nonsynonymous: https://raw.githubusercontent.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/master/BCoM_1kg_nonsynonymous_AF0005.txt
+- Functional: https://raw.githubusercontent.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/master/BCoM_1kg_functional_AF0005.txt
+
+Broad institue ranked list against 1000 Genomes Project (Allele frequencies threshold: 0.5%):
+- Synonymous: https://raw.githubusercontent.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/master/Broad_1kg_synonymous_AF0005.txt
+- Nonsynonymous: https://raw.githubusercontent.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/master/Broad_1kg_nonsynonymous_AF0005.txt
+- Functional: https://raw.githubusercontent.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/master/Broad_1kg_functional_AF0005.txt
+
+--------------------------------------------
+
+Baylor College of Medicine final ranked list (Allele frequencies threshold: 0.5%):
+- Synonymous: https://raw.githubusercontent.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/master/BCoM_total_synonymous_AF0005.txt
+- Nonsynonymous: https://raw.githubusercontent.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/master/BCoM_total_nonsynonymous_AF0005.txt
+- Functional: https://raw.githubusercontent.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/master/BCoM_total_functional_AF0005.txt
+
+Broad institue final ranked list (Allele frequencies threshold: 0.5%):
+- Synonymous: https://raw.githubusercontent.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/master/Broad_total_synonymous_AF0005.txt
+- Nonsynonymous: https://raw.githubusercontent.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/master/Broad_total_nonsynonymous_AF0005.txt
+- Functional: https://raw.githubusercontent.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/master/Broad_total_functional_AF0005.txt
+
+--------------------------------------------
+
 Baylor College of Medicine ranked list after PhD-SNPg prediction (Allele frequencies threshold: 0.5%):
 - Synonymous: https://raw.githubusercontent.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/master/PhDSNPg_BCoM_synonymous_AF0005.txt
 - Nonsynonymous: https://raw.githubusercontent.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/master/PhDSNPg_BCoM_nonsynonymous_AF0005.txt
