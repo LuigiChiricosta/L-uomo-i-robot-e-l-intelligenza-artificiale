@@ -1,6 +1,4 @@
-Bioinformatics Master Thesis Project
+Computer science Thesis Project
 > Supplementary Material
 
-- Tables: https://github.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/blob/master/tables.md
-
-- Scripts: https://github.com/LuigiChiricosta/Detecting-cancer-causing-genes-and-variants-in-Colon-Adenocarcinoma/blob/master/scripts.md
+- DO NOT AVAILABLE
